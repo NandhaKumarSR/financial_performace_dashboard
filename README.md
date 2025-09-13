@@ -7,8 +7,10 @@ This project showcases a responsive Power BI dashboard designed to analyze busin
 Explore the interactive dashboard here:  
 [View Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWIwZjI5ZjktNWI5Yy00MDMyLTkzZWYtYTU2NjUxNDJiMDk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-![alt text](./assets/desktop_view.png)
-![alt text](./assets/mobile_view_screenshot_1.png) ![alt text](./assets/mobile_view_screenshot_2.png)
+<p align="center">
+  <img src="./assets/mobile_view_screenshot_1.png" width="45%" />
+  <img src="./assets/mobile_view_screenshot_2.png" width="45%" />
+</p>
 
 ---
 
