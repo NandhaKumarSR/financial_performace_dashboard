@@ -9,8 +9,8 @@ Explore the interactive dashboard here:
 
 ![alt text](./assets/desktop_view.png)
 <p align="center">
-  <img src="./assets/mobile_view_screenshot_1.png" width="300" height="200" />
-  <img src="./assets/mobile_view_screenshot_2.png" width="300" height="200" />
+  <img src="./assets/mobile_view_screenshot_1.png" width="300" height="450" />
+  <img src="./assets/mobile_view_screenshot_2.png" width="300" height="450" />
 </p>
 
 ---
